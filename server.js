@@ -1,6 +1,7 @@
 const express = require('express'); //importa as dependencias necessárias
 const cors = require('cors');
 const path = require('path');
+require('./database'); // importa o banco de dados
 const productsRouter = require('./routes/products'); //rotas de produtos
 
 const app = express();
