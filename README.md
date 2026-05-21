@@ -3,12 +3,6 @@
 Aplicação **Fullstack** para gerenciamento de produtos com operações CRUD completas, desenvolvida com foco em simplicidade, desempenho e boas práticas.
 
 ---
-
-## 🖥️ Demonstração
-*(adicione aqui prints da interface ou GIFs mostrando o uso do app)*
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 | Camada      | Tecnologia              | Descrição                          |
